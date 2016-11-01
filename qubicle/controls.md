@@ -54,11 +54,12 @@ Mirror mode  | Symmetric drawing
 
 Some notes:
 
-* Selected areas can't be painted (with Masking on) - which works to protect them if needed.
-* You can move in dimensions with arrows instead of clicking the arrows
-* Instead of using the Eyedropper tool, you can also hold alt and select a colour
-* Slice mode ["2D"] - use slider and hold to slide by "bright edge"
-* Assign a keybind by hovering over a setting and pressing the keybind
+* Selected areas can‘t be painted (with Masking on)—which works to protect them if needed.
+* You can move in dimensions with arrows instead of clicking the arrows.
+* Instead of using the Eyedropper tool, you can also hold Alt and select a colour.
+* Slice mode ["2D"]: use slider and hold to slide by the “bright edge”.
+* Assign a keybind by hovering over a setting and pressing the keybind.
+* Click star in top right if icons to add to Favorites tab.
 
 Menu location | Action | Keybind
 --------------|--------|--------

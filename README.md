@@ -1,6 +1,12 @@
 Working with Voxels
 ===================
 
+History of voxels
+-----------------
+Be sure to read the great, elaborate Retronator introduction to voxels, [“Pixels and voxels, the long answer”][intro], on the history and science.
+
+It’s *so* good, seriously.
+
 Creation and rendering
 ----------------------
 * [Qubicle][]
@@ -29,8 +35,10 @@ Lookbooks and inspiration
 * [cartrdge voxel posts][cartrdge]
 * [Timothy J. Reynolds’s portfolio][turnislefthome] or [Dribbble profile][], if you want to feel like a rank amateur
 * [Zach Soares’s portfolio][zsinked]
+* [Aaron Robbins’s portfolio][sir_carma]
 
 
+[intro]: https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190
 [qubicle]: http://minddesk.com/
 [magicavoxel]: https://ephtracy.github.io/
 [mixamo]: https://www.mixamo.com/
@@ -44,3 +52,4 @@ Lookbooks and inspiration
 [turnislefthome]: http://turnislefthome.com/
 [dribbble profile]: https://dribbble.com/turnislefthome
 [zsinked]: http://zsinked.com/
+[sir_carma]: https://imgur.com/gallery/8zEE1/

@@ -34,18 +34,18 @@ Ins   | Split selection from object
 
 Tool | Default | Shift | Ctrl/Cmd
 -----|---------|-------|---------
-Move         | Move | - | Duplicate
+Move         | Move | | Duplicate
 Pencil       | Draw voxel | Draw line | Draw rectangle
-Attach       | Attach voxel | - | Attach rectangle
+Attach       | Attach voxel | | Attach rectangle
 Paint        | Paint surface | Paint line | Paint rectangle
-Paint bucket | Paints similar voxels | - | -
+Paint bucket | Paints similar voxels | |
 Freehand     | Paint | Attach | Erase
 Object       | Draw | Attach | Erase
 
 Tool | Default | Shift | Ctrl/Cmd
 -----|---------|-------|---------
-Resize  | Change voxel space | Change symmetrically | -
-Extrude | Extend voxel(s) | - | -
+Resize  | Change voxel space | Change symmetrically |
+Extrude | Extend voxel(s) | |
 
 Tool | Default
 -----|--------
@@ -62,7 +62,7 @@ Some notes:
 
 Menu location | Action | Keybind
 --------------|--------|--------
-Modify -> Boolean -> Union   | Join objects | -
+Modify -> Boolean -> Union   | Join objects |
 Modify -> Other -> Split off | Separate selection from object | Ins
 
 Primitive tools

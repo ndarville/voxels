@@ -73,9 +73,9 @@ Ins   | Split selection from object
 
 ^
 
-Menu location | Action
---------------|-------
-Modify -> Boolean -> Union   | Join objects
+Menu location | Action | Keybind
+--------------|--------|--------
+Modify -> Boolean -> Union   | Join objects | -
 Modify -> Other -> Split off | Separate selection from object | Ins
 
 Primitive tools

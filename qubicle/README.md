@@ -4,7 +4,7 @@ Qubicle: How To
 Tutorials
 ---------
 * [Official “Getting Started” guide][101]
-* Zach Soares’s brief but excellent ["How to Qubicle"][y2bcrazy] series
+* Zach Soares’s brief but excellent [“How to Qubicle”][y2bcrazy] series
     - #1 - The messy basics
     - #2 - Favorites bar
     - #3 - From MagicaVoxel to Qubicle and back

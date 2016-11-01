@@ -49,6 +49,8 @@ Ins   | Split selection from object
     - Shift: Attach
     - Ctrl: Erase
 
+^
+
 * Resize tool
     - Changes available voxel space
     - Shift: Change evenly (symmetrically)
@@ -71,6 +73,8 @@ Ins   | Split selection from object
 
 ^
 
+Menu location | Action
+--------------|-------
 Modify -> Boolean -> Union   | Join objects
 Modify -> Other -> Split off | Separate selection from object | Ins
 

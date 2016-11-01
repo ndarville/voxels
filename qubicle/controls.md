@@ -49,7 +49,7 @@ Extrude | Extend voxel(s) | - | -
 
 Tool | Default
 -----|--------
-Trace stroke | Connects freehand drawing
+Trace stroke | Connect freehand drawing
 Mirror mode  | Symmetric drawing
 
 Some notes:

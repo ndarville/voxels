@@ -8,7 +8,7 @@ Creation and rendering
 
 Animation
 ---------
-* Mixamo [(automatic rigging)][auto-rigging]
+* [Mixamo][] [(automatic rigging)][auto-rigging]
 
 Swatches
 --------
@@ -33,6 +33,7 @@ Lookbooks and inspiration
 
 [qubicle]: http://minddesk.com/
 [magicavoxel]: https://ephtracy.github.io/
+[mixamo]: https://www.mixamo.com/
 [auto-rigging]: https://twitter.com/Sir_carma/status/748239898671480832
 [swatches]: https://github.com/ndarville/voxels/tree/master/swatches
 [sketchfab]: https://sketchfab.com/
@@ -41,5 +42,5 @@ Lookbooks and inspiration
 [voxel tag]: https://sketchfab.com/tags/voxel
 [cartrdge]: https://cartrdge.com/search?q=voxel
 [turnislefthome]: http://turnislefthome.com/
-[dribbble]: https://dribbble.com/turnislefthome
+[dribbble profile]: https://dribbble.com/turnislefthome
 [zsinked]: http://zsinked.com/

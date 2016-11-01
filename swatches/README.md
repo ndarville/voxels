@@ -13,7 +13,7 @@ Voxatron v0.3.5a
 --------
 ![Voxatron colours](/swatches/voxatron035a.png)
 
-The Voxatron palette is by Lexaloffle, too, and covered by the same license as PICO-8, but I can’t find a link to include for it..
+The Voxatron palette is by Lexaloffle, too, and covered by the same license as PICO-8, but I can’t find a link to include for it.
 
 
 [pico-8]: http://www.romanzolotarev.com/pico-8-color-palette/

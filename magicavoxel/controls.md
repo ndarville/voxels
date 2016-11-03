@@ -7,7 +7,7 @@ The right-most list are pre-made templates stored under `/vox/` in your MagicaVo
 
 ![The initial model in MagicaVoxel](../_screenshots/magicavoxel-to-qubicle-initial.png)
 
-Importing this into Qubicle comes with problems, as not all information like colour and orientation is exported.
+Importing this to Qubicle comes with problems, as not all information like colour and orientation is exported.
 
 ![The uncoloured result when imported to Qubicle](../_screenshots/magicavoxel-to-qubicle-vox.png)
 

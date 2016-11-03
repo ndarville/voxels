@@ -27,4 +27,8 @@ You might get this instead, however:
 
 This is fixed by selecting the black area with Magic Wand and deleting it, which will reveal the original model.
 
-You can then go to `Swatches -> Add Used Swatches` to import the model colours as a swatch.
+You might have noticed that the orientation is still off between the two screenshots. To fix that we, flip around the x-axis (“Flip X”).
+
+![The model now matches its MagicaVoxel counterpart perfectly](../_screenshots/magicavoxel-to-qubicle-qb-flipped.png)
+
+You can then go to `Swatches -> Add Used Swatches` to import the model’s colours as a swatch.

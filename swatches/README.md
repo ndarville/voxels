@@ -9,6 +9,8 @@ Concocted by Lexaloffle, PICO-8 is available under a permissive [CC0 license][cc
 
 Click the header for a great [website by Roman Zolotarev][pico-8] with all the information you need to import the colour palette.
 
+Download the [CSV][pico8-csv] or [QSM][pico8-qsm] file to import the swatch to Qubicle and other editors.
+
 Voxatron v0.3.5a
 --------
 ![Voxatron colours](/swatches/voxatron035a.png)
@@ -18,3 +20,5 @@ The Voxatron palette is by Lexaloffle, too, and covered by the same license as P
 
 [pico-8]: http://www.romanzolotarev.com/pico-8-color-palette/
 [cc0]: https://twitter.com/lexaloffle/status/732649035165667329
+[pico8-csv]: /swatches/pico8.csv
+[pico8-qsm]: /swatches/pico8.qsm
